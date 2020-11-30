@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		043718722574F069003BC467 /* CustomHapticTouch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043718712574F069003BC467 /* CustomHapticTouch.swift */; };
 		04C908632572F26E00E81C9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C908622572F26E00E81C9D /* AppDelegate.swift */; };
 		04C908652572F26E00E81C9D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C908642572F26E00E81C9D /* SceneDelegate.swift */; };
 		04C908672572F26E00E81C9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C908662572F26E00E81C9D /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		043718712574F069003BC467 /* CustomHapticTouch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomHapticTouch.swift; sourceTree = "<group>"; };
 		04C9085F2572F26E00E81C9D /* ZGRAttrbsLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZGRAttrbsLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C908622572F26E00E81C9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C908642572F26E00E81C9D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				04C908622572F26E00E81C9D /* AppDelegate.swift */,
 				04C908642572F26E00E81C9D /* SceneDelegate.swift */,
 				04C908662572F26E00E81C9D /* ViewController.swift */,
+				043718712574F069003BC467 /* CustomHapticTouch.swift */,
 				04C908682572F26E00E81C9D /* Main.storyboard */,
 				04C9086B2572F26F00E81C9D /* Assets.xcassets */,
 				04C9086D2572F26F00E81C9D /* LaunchScreen.storyboard */,
@@ -275,6 +278,7 @@
 				04C908672572F26E00E81C9D /* ViewController.swift in Sources */,
 				04C908972572F30100E81C9D /* GestureExtensions.swift in Sources */,
 				04C9089F2572F33B00E81C9D /* ZGRAttrbsLabel.swift in Sources */,
+				043718722574F069003BC467 /* CustomHapticTouch.swift in Sources */,
 				04C908632572F26E00E81C9D /* AppDelegate.swift in Sources */,
 				04C908652572F26E00E81C9D /* SceneDelegate.swift in Sources */,
 			);

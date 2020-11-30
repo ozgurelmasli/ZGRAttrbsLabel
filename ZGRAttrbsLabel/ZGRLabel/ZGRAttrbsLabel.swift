@@ -104,6 +104,12 @@ extension ZGRAttrbsLabel {
           //OR
           // you can directly use
           // self.isCollapse = !self.isCollapse
+        
+        
+        DispatchQueue.main.async {
+            CustomHapticTouch.shared.playHaptic()
+        }
+        
           
           let showMoreIsTapped = (self.text! as NSString).range(of: self.showMore)
           let showLessIsTapped = (self.text! as NSString).range(of: self.showLess)
